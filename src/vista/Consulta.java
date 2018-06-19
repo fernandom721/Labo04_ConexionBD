@@ -25,8 +25,8 @@ import javax.swing.table.DefaultTableModel;
 import modelo.Filtro;
 
 /**
- *
- * @author LN710Q
+ * 
+ * @author Fernando Martínez
  */
 public class Consulta extends JFrame{
     public JLabel lblCodigo, lblMarca, lblStock, lblExistencia;

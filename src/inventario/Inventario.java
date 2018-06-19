@@ -8,8 +8,8 @@ package inventario;
 import vista.Consulta;
 
 /**
- *
- * @author LN710Q
+ * 
+ * @author Fernando Martínez
  */
 public class Inventario {
 

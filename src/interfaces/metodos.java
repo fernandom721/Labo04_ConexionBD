@@ -8,8 +8,9 @@ package interfaces;
 import java.util.ArrayList;
 
 /**
- *
- * @author LN710Q
+ * 
+ * @author Fernando Martínez
+ * @param <Generic> 
  */
 public interface metodos <Generic>{
     public boolean create(Generic g);

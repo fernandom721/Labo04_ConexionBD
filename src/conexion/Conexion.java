@@ -13,8 +13,8 @@ import java.util.logging.Logger;
 //import sun.util.logging.PlatformLogger;
 
 /**
- *
- * @author LN710Q
+ * 
+ * @author Fernando Martínez
  */
 public class Conexion {
     private String user;

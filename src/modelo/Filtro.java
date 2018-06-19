@@ -6,8 +6,8 @@
 package modelo;
 
 /**
- *
- * @author LN710Q
+ * 
+ * @author Fernando Martínez
  */
 public class Filtro {
     private int id;
